@@ -1,10 +1,4 @@
 # Webiro Creative Agency  
-## آژانس خلاقیت وبیرو
-
----
-
-## English
-
 **Webiro Creative Agency** is a creative-driven digital studio focused on building modern, scalable, and intelligent digital products.
 
 We operate at the intersection of **design, technology, and strategy**, helping brands and businesses transform ideas into impactful digital experiences.
@@ -23,8 +17,7 @@ We believe in building in public, sharing knowledge, and growing together.
 
 ---
 
-## فارسی
-
+## آژانس خلاقیت وبیرو
 **آژانس خلاقیت وبیرو** یک استودیوی دیجیتال مبتنی بر خلاقیت است که بر طراحی و توسعه محصولات دیجیتال مدرن، مقیاس‌پذیر و هوشمند تمرکز دارد.
 
 وبیرو در نقطه تلاقی **طراحی، تکنولوژی و استراتژی** فعالیت می‌کند و به کسب‌وکارها کمک می‌کند ایده‌های خود را به تجربه‌های دیجیتال اثرگذار تبدیل کنند.
